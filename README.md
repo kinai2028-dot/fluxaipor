@@ -2,7 +2,7 @@
 
 这是Flux-AI-Pro项目的增强版本，大幅扩展了AI模型支持，包括Stable Diffusion系列、DALL-E、Midjourney等多种主流AI图像生成模型。
 
-![AI Image Generator](https://github.com/kinai2028-dot/Flux-AI-Pro/blob/main/螢幕擷取畫面%202025-09-25%20041942.png)
+![AI Image Generator]()
 
 ## 🆕 增强版新特性
 
